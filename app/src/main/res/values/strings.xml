@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fernsteuerung ukgV2</string>
+    <string name="button_center">stop</string>
+    <string name="button_top_left">◤</string>
+    <string name="button_top_right">◥</string>
+    <string name="button_bottom_left">◣</string>
+    <string name="button_bottom_right">◢</string>
+    <string name="button_top_center">△</string>
+    <string name="button_center_left">◁</string>
+    <string name="button_center_right">▷</string>
+    <string name="button_bottom_center">▽</string>
+    <string name="button_turn_left">↺</string>
+    <string name="button_turn_right">↻</string>
+    <string name="toggleButton_connect">Connect</string>
+    <string name="toggleButton_disconnect">Disconnect</string>
+    <string name="toggleButton_enable">Enable</string>
+    <string name="toggleButton_disable">Disable</string>
+    <string name="text_slow">slow</string>
+    <string name="text_fast">fast</string>
+    <string name="text_velocity">Velocity</string>
+</resources>
